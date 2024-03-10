@@ -1,0 +1,57 @@
+/* Styles généraux des nœuds */
+.node {
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    color: #666;
+    font-family: arial, verdana, tahoma;
+    font-size: 11px;
+    border-radius: 5px;
+    display: inline-block;
+    width: 70px;
+    text-align: center;
+    margin-right: 10px;
+    vertical-align: top;
+  }
+  
+  /* Styles spécifiques pour la classe "class0" */
+.node.class0 {
+    border: 0.4px solid #d6b656;
+    background-color: #fff2cc;
+    
+  }
+  
+  /* Styles spécifiques pour la classe "class1" */
+  .node.class1 {
+    border: 0.1px solid black;
+    background-color: white;
+}
+  
+  /* Styles spécifiques pour la classe "class2" */
+  .node.class2 {
+    border: 0.1px solid #82b366;
+    background-color: #d5e8d4;
+    border-radius: 0;
+}
+.node.class3 {
+        border: 0.1px solid #b85450;
+        width: 100px; /* Définissez la largeur et la hauteur du cercle */
+        height: 100px;
+        background-color: #f8cecc; /* Couleur de fond du cercle */
+        border-radius: 50%; /* Utilisez 50% pour obtenir une forme circulaire */
+      
+}
+  
+  /* Ajoutez plus de styles pour d'autres classes au besoin */
+ /* Styles pour les flèches */
+ .text-center {
+    text-align: center;
+  }
+  
+
+  
+  
+  
+   
+ 

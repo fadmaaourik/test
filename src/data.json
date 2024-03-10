@@ -1,0 +1,213 @@
+{
+    "id": "1",
+    "text": "Porte",
+    "class": "class0",
+    "children": [
+      {
+        "id": "2",
+        "text": "Vantail",
+        "class": "class1",
+        "children": [
+          {
+            "id": "14",
+            "text": "Bouton poussoir INT",
+            "class": "class2"
+          },
+          {
+            "id": "15",
+            "text": "Carré de deblocage",
+            "class": "class2"
+          },
+          {
+            "id": "16",
+            "text": "Bouton poussoir EXT",
+            "class": "class2"
+          },
+          {
+            "id": "14",
+            "text": "Serrure",
+            "class": "class2"
+          },
+          {
+            "id": "17",
+            "text": "Carré de déverrouillage",
+            "class": "class2"
+          },
+          {
+            "id": "18",
+            "text": "Poignée encastrée INT",
+            "class": "class2"
+          },
+          {
+            "id": "19",
+            "text": "Poignée encastrée EXT",
+            "class": "class2"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "text": "Dispositif de verrouillage",
+        "class": "class1",
+        "children": [
+          {
+            "id": "20",
+            "text": "Pênes",
+            "class": "class2"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "text": "Dispositif de détection d’obstacle",
+        "class": "class1"
+      },
+      {
+        "id": "5",
+        "text": "Joint gonflable",
+        "class": "class1"
+      },
+      {
+        "id": "6",
+        "text": "Dispositif de condamnation",
+        "class": "class1"
+      },
+      {
+        "id": "7",
+        "text": "Dispositif d’ouverture de secours",
+        "class": "class1",
+        "children": [
+            {
+                "id": "6",
+                "text": "Poignée de secours",
+                "class": "class2",
+                "children": [
+                    {
+                        "id": "6",
+                        "text": "Carré de commande de secours",
+                        "class": "class3"
+                    }
+                ]
+            },
+              {
+                "id": "6",
+                "text": "Poignée de déverrouillage",
+                "class": "class2",
+                "children": [
+                    {
+                        "id": "6",
+                        "text": "Carré de condamnation de secours",
+                        "class": "class3"
+                    }
+                ]
+                
+              }
+        ]
+      },
+      {
+        "id": "8",
+        "text": "Mécanisme",
+        "class": "class1",
+        "children": [
+          {
+            "id": "21",
+            "text": "Module MADD",
+            "class": "class2"
+          },
+          {
+            "id": "22",
+            "text": "Détecteurs de position",
+            "class": "class2"
+          },
+          {
+            "id": "23",
+            "text": "Vérin de barre",
+            "class": "class2"
+          },
+          {
+            "id": "24",
+            "text": "Vérin à moufle",
+            "class": "class2"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "text": "Platine de commande",
+        "class": "class1",
+        "children": [
+            {
+                "id": "6",
+                "text": "Platine électrovalve",
+                "class": "class2"
+              },
+              {
+                "id": "6",
+                "text": "Platine temporisée",
+                "class": "class2"
+              },
+              {
+                "id": "6",
+                "text": "Platine joint gonflable",
+                "class": "class2"
+              }
+        ]
+      },
+      {
+        "id": "10",
+        "text": "Robinet d'isolement de porte d'accèes",
+        "class": "class1"
+      },
+      {
+        "id": "11",
+        "text": "Robinet d'isolement du Joint gonflable",
+        "class": "class1"
+      },
+      {
+        "id": "12",
+        "text": "Voyants",
+        "class": "class1",
+        "children": [
+            {
+                "id": "6",
+                "text": "Voyant de fermeture porte",
+                "class": "class2"
+              },
+              {
+                "id": "6",
+                "text": "voyant de signalisation porte condamnée",
+                "class": "class2"
+              },
+              {
+                "id": "6",
+                "text": "voyant de signalisation porte verrouillée",
+                "class": "class2"
+              },
+              {
+                "id": "6",
+                "text": "Commutateur de fermeture porte",
+                "class": "class2"
+              }
+        ]
+        
+      },
+      {
+        "id": "13",
+        "text": "Dispositif UFR R1",
+        "class": "class1",
+        "children": [
+            {
+                "id": "6",
+                "text": "Plateforme élévatrice",
+                "class": "class2"
+              },
+              {
+                "id": "6",
+                "text": "Passerelle de transfert",
+                "class": "class2"
+              }
+        ]
+      }
+    ]
+  }
+  
